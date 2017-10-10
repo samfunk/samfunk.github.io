@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Project Benson'
+title: 'Identifying New York's Busiest MTA Stations'
 date: 2017-09-26 12:00:00 -0600
 categories: jekyll update
 ---
-# Optimizing the effectiveness of WTWY's street teams  
+# Optimizing the effectiveness of WomenTechWomenYes street teams  
 
 
 <p align="center"><img src="http://web.mta.info/maps/images/subway_map_Sep02_2400x2901.jpg" alt="MTA Stations" width="500"/></p>
