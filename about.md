@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src='https://github.com/samfunk/samfunk.github.io/blob/master/images/headshot2.png?raw=True' width='200' title='fünke' alt='headshot'/>  
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+funk aims to illustrate the work, ideas, and interests of Sam Funk, a recent graduate of Washington University in St. Louis and an aspiring data scientist based out of Chicago.  
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Sam is passionate about exploring complex and challenging concepts. He tries to solve problems with reason and logic that is backed by solid quantitative evidence. Sam believes intellectual curiosity, integrity, and grit are paramount and strives to emulate these traits.  
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Topics of curiosity include financial markets, political science, philosophy, and technology. Skills include Python, SQL, R, STATA, javascript, and HTML. Interests include world travel, hiking/adventure, sports, politics, and space exploration.   
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[GitHub](https://github.com/samfunk)  
+[LinkedIn](https://linkedin.com/in/samfunk95/)  
