@@ -2,9 +2,9 @@
 
 <div>
   <p align="center">
-   <img src="http://now.tufts.edu/sites/default/files/bodyimages/131014_FAMA_1%20(2).jpg" alt="Fama" width="200" height="300" align="left"/> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Janet_Yellen_official_Federal_Reserve_portrait.jpg/220px-Janet_Yellen_official_Federal_Reserve_portrait.jpg" alt="Yellen" width="220" height="300" align="center"/>
-   <img src="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1976/friedman.jpg" alt="Friedman" width="200" height="300" align="right"/>
+   <img src="http://now.tufts.edu/sites/default/files/bodyimages/131014_FAMA_1%20(2).jpg" alt="Fama" width="80" height="120" align="left"/> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Janet_Yellen_official_Federal_Reserve_portrait.jpg/220px-Janet_Yellen_official_Federal_Reserve_portrait.jpg" alt="Yellen" width="88" height="120" align="center"/>
+   <img src="https://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/1976/friedman.jpg" alt="Friedman" width="80" height="120" align="right"/>
    </p>
 </div>
 
