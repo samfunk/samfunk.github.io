@@ -44,7 +44,7 @@ $bc-red: #bc0000;
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
 $action-color: $midnight;
-$highlight-color: tint($action-color, 33%);
+$highlight-color: $action-color;
 
 // Border
 $base-border-color: $light-gray;
