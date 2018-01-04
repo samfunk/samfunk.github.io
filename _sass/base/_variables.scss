@@ -34,13 +34,16 @@ $purple: #8e44ad;			// Wisteria
 $orange: #d35400;			// Pumpkin
 $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
+$navy: #000080;       // Navy
+$midnight: #2c3e50    // Midnight Blue
+$asphalt: #34495e     // Wet Asphalt
 // Even more colors
 $bc-red: #bc0000;
 
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $midnight;
 $highlight-color: tint($action-color, 33%);
 
 // Border
