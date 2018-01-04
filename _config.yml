@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://samfunk.github.io" # the base hostname & protocol for your site
-cover: "/assets/ZION.JPG"
+cover: "/assets/nn.png"
 logo: "/assets/icon_logo.png"
 
 # Build settings
