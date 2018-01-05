@@ -2,7 +2,7 @@
 layout: post
 title: "Identifying New York's Busiest MTA Stations"
 date: 2017-09-26 12:00:00 -0600
-categories: jekyll update
+categories: projects
 author: Sam Funk
 ---
 # Optimizing the effectiveness of WomenTechWomenYes street teams  
