@@ -10,7 +10,4 @@ funk aims to illustrate the work, ideas, and interests of Sam Funk, a recent gra
 
 Sam is passionate about exploring complex and challenging concepts. He tries to solve problems with reason and logic that is backed by solid quantitative evidence. Sam believes intellectual curiosity, integrity, and grit are paramount and strives to emulate these traits.  
 
-Topics of curiosity include financial markets, political science, philosophy, and technology. Skills include Python, SQL, R, STATA, javascript, and HTML. Interests include world travel, hiking/adventure, sports, politics, and space exploration.   
-
-[GitHub](https://github.com/samfunk)  
-[LinkedIn](https://linkedin.com/in/samfunk95/)  
+Topics of curiosity include financial markets, political science, philosophy, and technology. Skills include Python, SQL, R, STATA, javascript, and HTML. Interests include world travel, hiking/adventure, sports, politics, and space exploration. 
