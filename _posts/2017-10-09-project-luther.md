@@ -2,7 +2,7 @@
 layout: post
 title: "Linear Regression with Web-Scraped Data"
 date: 2017-10-09 12:00:00 -0600
-categories: jekyll update
+categories: projects
 author: Sam Funk
 ---
 # Investigating the Federal Reserve's Influence on the S&P 500  
