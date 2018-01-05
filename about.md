@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src='https://github.com/samfunk/samfunk.github.io/blob/master/images/headshot2.png?raw=True' title='fünke' alt='headshot'/>  
+<img src='https://github.com/samfunk/samfunk.github.io/blob/master/images/headshot2.png?raw=True' height="25" width="25" title='fünke' alt='headshot'/>  
 
 funk aims to illustrate the work, ideas, and interests of Sam Funk, a recent graduate of Washington University in St. Louis and an aspiring data scientist based out of Chicago.  
 
