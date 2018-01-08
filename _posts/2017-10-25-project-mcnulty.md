@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Classification"
+title: "Classifying Earnings Surprise with S&P 500 Metrics"
 date: 2017-10-25 12:00:00 -0600
 categories: projects
 author: Sam Funk
 ---
-# Classifying Earnings Surprise with S&P 500 Metrics
-
 <p align="center"><img src="/images/zacks_graph.png?raw=true" alt="Con" align="center" /></p>  
 <p align="center">Alphabet Inc. (GOOGL)</p>
 <p align="center"><i>Source: Zacks Investments</i></p>
