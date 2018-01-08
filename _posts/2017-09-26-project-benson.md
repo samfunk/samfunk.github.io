@@ -86,7 +86,7 @@ And for the evening rush, the highest scoring stations:
 
 After seeing these results, we were not too surprised with the stations that concentrated toward the top. Times Square, Penn Station, Herald Square, Fulton Street, Wall Street, and Chambers Street are all large stations that see a lot of daily traffic. However, looking a little further down our rankings, we noticed a few stations that fared well, for example, Astoria Avenue, Steinway Street, Vernon Blvd - Jackson Ave, and Bleecker Street.
 
-<p align="center"><img alt="Top Stations Map" width="500"/></p>  
+<p align="center"><img src="/images/mta_station.png?raw=true" alt="Top Stations Map" width="500"/></p>  
 
 ## Recommendations
 
