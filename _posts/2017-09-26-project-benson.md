@@ -5,8 +5,6 @@ date: 2017-09-26 12:00:00 -0600
 categories: projects
 author: Sam Funk
 ---
-# Optimizing the effectiveness of WomenTechWomenYes street teams  
-
 
 <p align="center"><img src="/images/subway_map.jpg?raw=true" alt="MTA Stations" width="500"/></p>
 
