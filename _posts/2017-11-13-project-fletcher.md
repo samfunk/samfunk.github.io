@@ -1,13 +1,10 @@
 ---
 layout: post
-title: "NLP"
+title: "Exploring Financial News Trends with Natural Language Processing"
 date: 2017-11-13 12:00:00 -0600
 categories: projects
 author: Sam Funk
 ---
-
-# Exploring Financial News Trends with Natural Language Processing
-
 <center><img src="/images/info_stock.png?raw=true" alt="Info to Stock" align="center" /></center>  
 
 ## Overview  
