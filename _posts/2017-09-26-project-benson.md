@@ -8,7 +8,7 @@ author: Sam Funk
 # Optimizing the effectiveness of WomenTechWomenYes street teams  
 
 
-<p align="center"><img src="http://web.mta.info/maps/images/subway_map_Sep02_2400x2901.jpg" alt="MTA Stations" width="500"/></p>
+<p align="center"><img src="http://web.mta.info/maps/images/subway_map_Sep02_2400x2901.jpg?raw=true" alt="MTA Stations" width="500"/></p>
 
 
 ## Overview  
@@ -43,7 +43,7 @@ After combining the two datasets on zip code, we calculated the percentile rank 
 * Percent of young women with STEM degrees by zip code  
 * Median individual income by zip code  
 
-<p align="center"><img src="https://github.com/samfunk/samfunk.github.io/blob/master/images/NYC_heat.png" alt="NYC Zip Code Heat Map" width="500"/></p>  
+<p align="center"><img src="/images/NYC_heat.png?raw=true" alt="NYC Zip Code Heat Map" width="500"/></p>  
 
 Next, we calculated a weighted sum of these percentiles using the following weights:  
 * Station traffic = 0.4
