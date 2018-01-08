@@ -8,7 +8,7 @@ author: Sam Funk
 # Optimizing the effectiveness of WomenTechWomenYes street teams  
 
 
-<p align="center"><img src="http://web.mta.info/maps/images/subway_map_Sep02_2400x2901.jpg?raw=true" alt="MTA Stations" width="500"/></p>
+<p align="center"><img src="http://web.mta.info/maps/images/subway_map_Nov27_2400x2901.jpg" alt="MTA Stations" width="500"/></p>
 
 
 ## Overview  
