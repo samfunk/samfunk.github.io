@@ -15,9 +15,9 @@ The price of a company's stock is the expected value of its future earnings. Thi
 
 <div>
   <p align="center">
-   <img src="/images/yahoo_recs.png?raw=true" alt="Recommendations" align="center" width="250"/>
-   <img src="/images/yahoo_lines.png?raw=true" alt="Targets" align="center" width="250"/>
-   <img src="/images/yahoo_avse.png?raw=true" alt="Actual vs. Estimates" align="center" width="250"/>
+   <img src="/images/yahoo_recs.png?raw=true" alt="Recommendations" align="center" width="50"/>
+   <img src="/images/yahoo_lines.png?raw=true" alt="Targets" align="center" width="50"/>
+   <img src="/images/yahoo_avse.png?raw=true" alt="Actual vs. Estimates" align="center" width="50"/>
    </p>
 </div>
 <p align="center">Alphabet Inc. (GOOGL)</p>
