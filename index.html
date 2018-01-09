@@ -28,7 +28,7 @@ layout: default
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
       <div class="post-categories">
       in 
-				<a href="{{ site.baseurl }}/{{ post.layout }}">{{ post.layout | capitalize}}</a>, 
+				{% for typ in post.type %}<a href="{{ site.baseurl }}/{{ typ }}">{{ typ | capitalize}}</a>, 
         {% for cat in post.categories %}<a href="{{ site.baseurl }}/category/{{ cat }}">{{ cat | capitalize }}</a>{% endfor %}
       </div>
     </section>
