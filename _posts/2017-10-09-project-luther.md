@@ -2,6 +2,7 @@
 layout: post
 title: "Investigating the Federal Reserve's Influence on the S&P 500"
 date: 2017-10-09 12:00:00 -0600
+type: projects
 categories: metis
 author: Sam Funk
 ---
