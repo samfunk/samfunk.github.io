@@ -2,6 +2,7 @@
 layout: post
 title: "Exploring Financial News Trends with Natural Language Processing"
 date: 2017-11-13 12:00:00 -0600
+type: projects
 categories: metis
 author: Sam Funk
 ---
