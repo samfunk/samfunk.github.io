@@ -4,8 +4,6 @@ permalink: /resources/
 title: Resources
 ---  
 
-All Things Machine Learning
-
 ### Articles
 [How to Become a Data Scientist - Brandon Rohrer](https://brohrer.github.io/one_step_program_become_data_scientist.html)  
 [How to Use t-SNE Effectively - Martin Wattenberg](http://distill.pub/2016/misread-tsne/)  
