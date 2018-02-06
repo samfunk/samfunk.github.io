@@ -10,3 +10,4 @@ author: Sam Funk
 # Exploring the Predictive Power of Technical Analysis with Deep Learning
 
 # Coming Soon!
+# In the meantime, go [here](https://github.com/samfunk/final_project)
