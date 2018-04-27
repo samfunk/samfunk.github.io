@@ -2,6 +2,7 @@
 layout: post
 title: "Identifying New York's Busiest MTA Stations"
 date: 2017-09-26 12:00:00 -0600
+type: projects
 categories: metis
 author: Sam Funk
 ---

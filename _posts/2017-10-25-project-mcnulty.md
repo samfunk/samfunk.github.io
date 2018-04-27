@@ -2,6 +2,7 @@
 layout: post
 title: "Classifying Earnings Surprise with S&P 500 Metrics"
 date: 2017-10-25 12:00:00 -0600
+type: projects
 categories: metis
 author: Sam Funk
 ---
